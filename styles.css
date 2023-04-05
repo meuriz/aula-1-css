@@ -2,3 +2,62 @@ p {
     color: green;
     padding: 30px;
 }
+h1{
+    color: blue;
+}
+*{
+    font-family: arial;
+
+}
+/* ID */
+#main-title {
+    color:red;
+    padding: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* class */
+.my-content {
+color: blue;
+background-color: cyan;
+padding: 30px;
+
+}
+
+.background-default {
+    background-color: #bcc740;
+
+}
+/*colors */
+.hexa {
+    background-color: #bcc740;
+
+}
+.rgb {
+    background-color: rgb(red, green, blue);
+    color:aqua;
+
+
+}
+
+.color-name{
+    background-color: yellow
+}
+
+h1, h2, h3 {
+padding: 10px;
+
+}
+.sans-serif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.serif {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.mono {
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.big-tex {
+    font-size: 40px;
+}
